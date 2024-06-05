@@ -1,5 +1,5 @@
 
-# Team-83
+# Trumio Universtiy
 
 We present our features for the ecosystem around our standalone platform to the ecosystem - "Trumio University" along with a feature that incentivises existing trumio users to earn badges to improve their bidder profiles. We have implemented course recommender, news flash, bidder recommender and course recommender based on description of tickets for a project.
 
